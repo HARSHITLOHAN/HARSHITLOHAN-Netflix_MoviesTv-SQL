@@ -52,7 +52,7 @@ CREATE TABLE netflix (
 8.Top actors in Indian content
 9.Classify titles as Good/Bad using keywords
 
-💡 All queries are included in Solution Netflix.sql
+💡 All queries are included in Solution Netflix.sql.
 
 ---
 
