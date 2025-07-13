@@ -37,20 +37,24 @@ CREATE TABLE netflix (
   listed_in VARCHAR,
   description VARCHAR
 );
- 
+
+---
+
 🔍 Key SQL Questions Answered
 
-Total Movies vs TV Shows
-Most common rating for each type
-Top 5 countries by content count
-Longest movie by duration
-Content added in last 5 years
-All works by Rajiv Chilaka
-TV Shows with >5 seasons
-Top actors in Indian content
-Classify titles as Good/Bad using keywords
+1.Total Movies vs TV Shows
+2.Most common rating for each type
+3.Top 5 countries by content count
+4.Longest movie by duration
+5.Content added in last 5 years
+6.All works by Rajiv Chilaka
+7.TV Shows with >5 seasons
+8.Top actors in Indian content
+9.Classify titles as Good/Bad using keywords
 
 💡 All queries are included in Solution Netflix.sql
+
+---
 
 🧠 What I Learned
 
@@ -58,6 +62,8 @@ Writing clean, efficient SQL queries
 Handling multi-valued fields and missing data
 Thinking like a data analyst: structured questioning
 Turning raw data into insights
+
+---
 
 👨‍💻 About Me
 I’m Harshit Lohani, a CS Engineer exploring SQL, Excel, Python, and Power BI to become a data analyst.
