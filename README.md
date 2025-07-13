@@ -40,7 +40,7 @@ CREATE TABLE netflix (
 
 ---
 
-##🔍 Key SQL Questions Answered
+## 🔍 Key SQL Questions Answered
 
 1.Total Movies vs TV Shows
 2.Most common rating for each type
